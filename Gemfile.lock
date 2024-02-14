@@ -255,6 +255,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    RedCloth (= 4.3.2)
     ref (2.0.0)
     regexp_parser (1.6.0)
     responders (3.0.0)
